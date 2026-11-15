@@ -1,0 +1,346 @@
+title: Simple Equipment Icons
+originalAuthor: PunningLinguist
+description: Changes weapon, armor, and accessory icons to the minimal icons from Televo's Re:Collection
+assets:
+#Keyblades
+- name: itempic/item-043.imd
+  multi:
+  - name: itempic/item-044.imd
+  - name: itempic/item-045.imd
+  - name: itempic/item-046.imd
+  - name: itempic/item-047.imd
+  - name: itempic/item-048.imd
+  - name: itempic/item-049.imd
+  - name: itempic/item-050.imd
+  - name: itempic/item-051.imd
+  - name: itempic/item-052.imd
+  - name: itempic/item-053.imd
+  - name: itempic/item-054.imd
+  - name: itempic/item-055.imd
+  - name: itempic/item-056.imd
+  - name: itempic/item-057.imd
+  - name: itempic/item-058.imd
+  - name: itempic/item-059.imd
+  - name: itempic/item-060.imd
+  - name: itempic/item-061.imd
+  - name: itempic/item-062.imd
+  - name: itempic/item-063.imd
+  - name: itempic/item-064.imd
+  - name: itempic/item-065.imd
+  - name: itempic/item-066.imd
+  - name: itempic/item-067.imd
+  - name: itempic/item-300.imd
+  - name: itempic/item-301.imd
+  method: copy
+  source:
+  - name: EquipmentIcons/keyblade.imd
+- name: remastered/itempic/item-043.imd/-0.dds
+  multi:
+  - name: remastered/itempic/item-044.imd/-0.dds
+  - name: remastered/itempic/item-045.imd/-0.dds
+  - name: remastered/itempic/item-046.imd/-0.dds
+  - name: remastered/itempic/item-047.imd/-0.dds
+  - name: remastered/itempic/item-048.imd/-0.dds
+  - name: remastered/itempic/item-049.imd/-0.dds
+  - name: remastered/itempic/item-050.imd/-0.dds
+  - name: remastered/itempic/item-051.imd/-0.dds
+  - name: remastered/itempic/item-052.imd/-0.dds
+  - name: remastered/itempic/item-053.imd/-0.dds
+  - name: remastered/itempic/item-054.imd/-0.dds
+  - name: remastered/itempic/item-055.imd/-0.dds
+  - name: remastered/itempic/item-056.imd/-0.dds
+  - name: remastered/itempic/item-057.imd/-0.dds
+  - name: remastered/itempic/item-058.imd/-0.dds
+  - name: remastered/itempic/item-059.imd/-0.dds
+  - name: remastered/itempic/item-060.imd/-0.dds
+  - name: remastered/itempic/item-061.imd/-0.dds
+  - name: remastered/itempic/item-062.imd/-0.dds
+  - name: remastered/itempic/item-063.imd/-0.dds
+  - name: remastered/itempic/item-064.imd/-0.dds
+  - name: remastered/itempic/item-065.imd/-0.dds
+  - name: remastered/itempic/item-066.imd/-0.dds
+  - name: remastered/itempic/item-067.imd/-0.dds
+  - name: remastered/itempic/item-300.imd/-0.dds
+  - name: remastered/itempic/item-301.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: EquipmentIcons/keyblade.dds
+#Staves
+- name: itempic/item-068.imd
+  multi:
+  - name: itempic/item-069.imd
+  - name: itempic/item-070.imd
+  - name: itempic/item-071.imd
+  - name: itempic/item-072.imd
+  - name: itempic/item-073.imd
+  - name: itempic/item-074.imd
+  - name: itempic/item-075.imd
+  - name: itempic/item-076.imd
+  - name: itempic/item-077.imd
+  - name: itempic/item-078.imd
+  - name: itempic/item-302.imd
+  - name: itempic/item-303.imd
+  - name: itempic/item-304.imd
+  - name: itempic/item-305.imd
+  - name: itempic/item-306.imd
+  - name: itempic/item-307.imd
+  - name: itempic/item-308.imd
+  - name: itempic/item-309.imd
+  - name: itempic/item-318.imd
+  method: copy
+  source:
+  - name: EquipmentIcons/staff.imd
+- name: remastered/itempic/item-068.imd/-0.dds
+  multi:
+  - name: remastered/itempic/item-069.imd/-0.dds
+  - name: remastered/itempic/item-070.imd/-0.dds
+  - name: remastered/itempic/item-071.imd/-0.dds
+  - name: remastered/itempic/item-072.imd/-0.dds
+  - name: remastered/itempic/item-073.imd/-0.dds
+  - name: remastered/itempic/item-074.imd/-0.dds
+  - name: remastered/itempic/item-075.imd/-0.dds
+  - name: remastered/itempic/item-076.imd/-0.dds
+  - name: remastered/itempic/item-077.imd/-0.dds
+  - name: remastered/itempic/item-078.imd/-0.dds
+  - name: remastered/itempic/item-302.imd/-0.dds
+  - name: remastered/itempic/item-303.imd/-0.dds
+  - name: remastered/itempic/item-304.imd/-0.dds
+  - name: remastered/itempic/item-305.imd/-0.dds
+  - name: remastered/itempic/item-306.imd/-0.dds
+  - name: remastered/itempic/item-307.imd/-0.dds
+  - name: remastered/itempic/item-308.imd/-0.dds
+  - name: remastered/itempic/item-309.imd/-0.dds
+  - name: remastered/itempic/item-318.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: EquipmentIcons/staff.dds
+#Shields
+- name: itempic/item-080.imd
+  multi:
+  - name: itempic/item-081.imd
+  - name: itempic/item-082.imd
+  - name: itempic/item-083.imd
+  - name: itempic/item-084.imd
+  - name: itempic/item-085.imd
+  - name: itempic/item-086.imd
+  - name: itempic/item-087.imd
+  - name: itempic/item-088.imd
+  - name: itempic/item-089.imd
+  - name: itempic/item-090.imd
+  - name: itempic/item-310.imd
+  - name: itempic/item-311.imd
+  - name: itempic/item-312.imd
+  - name: itempic/item-313.imd
+  - name: itempic/item-314.imd
+  - name: itempic/item-315.imd
+  - name: itempic/item-316.imd
+  - name: itempic/item-317.imd
+  - name: itempic/item-319.imd
+  method: copy
+  source:
+  - name: EquipmentIcons/shield.imd
+- name: remastered/itempic/item-080.imd/-0.dds
+  multi:
+  - name: remastered/itempic/item-081.imd/-0.dds
+  - name: remastered/itempic/item-082.imd/-0.dds
+  - name: remastered/itempic/item-083.imd/-0.dds
+  - name: remastered/itempic/item-084.imd/-0.dds
+  - name: remastered/itempic/item-085.imd/-0.dds
+  - name: remastered/itempic/item-086.imd/-0.dds
+  - name: remastered/itempic/item-087.imd/-0.dds
+  - name: remastered/itempic/item-088.imd/-0.dds
+  - name: remastered/itempic/item-089.imd/-0.dds
+  - name: remastered/itempic/item-090.imd/-0.dds
+  - name: remastered/itempic/item-310.imd/-0.dds
+  - name: remastered/itempic/item-311.imd/-0.dds
+  - name: remastered/itempic/item-312.imd/-0.dds
+  - name: remastered/itempic/item-313.imd/-0.dds
+  - name: remastered/itempic/item-314.imd/-0.dds
+  - name: remastered/itempic/item-315.imd/-0.dds
+  - name: remastered/itempic/item-316.imd/-0.dds
+  - name: remastered/itempic/item-317.imd/-0.dds
+  - name: remastered/itempic/item-319.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: EquipmentIcons/shield.dds
+#Armor
+- name: itempic/item-101.imd
+  multi:
+  - name: itempic/item-102.imd
+  - name: itempic/item-103.imd
+  - name: itempic/item-104.imd
+  - name: itempic/item-105.imd
+  - name: itempic/item-106.imd
+  - name: itempic/item-107.imd
+  - name: itempic/item-108.imd
+  - name: itempic/item-109.imd
+  - name: itempic/item-110.imd
+  - name: itempic/item-111.imd
+  - name: itempic/item-112.imd
+  - name: itempic/item-113.imd
+  - name: itempic/item-114.imd
+  - name: itempic/item-115.imd
+  - name: itempic/item-116.imd
+  - name: itempic/item-117.imd
+  - name: itempic/item-118.imd
+  - name: itempic/item-119.imd
+  - name: itempic/item-120.imd
+  - name: itempic/item-121.imd
+  - name: itempic/item-122.imd
+  - name: itempic/item-123.imd
+  - name: itempic/item-124.imd
+  - name: itempic/item-125.imd
+  - name: itempic/item-126.imd
+  - name: itempic/item-127.imd
+  - name: itempic/item-128.imd
+  - name: itempic/item-129.imd
+  - name: itempic/item-130.imd
+  - name: itempic/item-131.imd
+  - name: itempic/item-132.imd
+  - name: itempic/item-133.imd
+  - name: itempic/item-134.imd
+  - name: itempic/item-135.imd
+  - name: itempic/item-136.imd
+  - name: itempic/item-137.imd
+  - name: itempic/item-138.imd
+  - name: itempic/item-139.imd
+  - name: itempic/item-140.imd
+  - name: itempic/item-330.imd
+  - name: itempic/item-331.imd
+  - name: itempic/item-332.imd
+  method: copy
+  source:
+  - name: EquipmentIcons/armor.imd
+- name: remastered/itempic/item-101.imd/-0.dds
+  multi:
+  - name: remastered/itempic/item-102.imd/-0.dds
+  - name: remastered/itempic/item-103.imd/-0.dds
+  - name: remastered/itempic/item-104.imd/-0.dds
+  - name: remastered/itempic/item-105.imd/-0.dds
+  - name: remastered/itempic/item-106.imd/-0.dds
+  - name: remastered/itempic/item-107.imd/-0.dds
+  - name: remastered/itempic/item-108.imd/-0.dds
+  - name: remastered/itempic/item-109.imd/-0.dds
+  - name: remastered/itempic/item-110.imd/-0.dds
+  - name: remastered/itempic/item-111.imd/-0.dds
+  - name: remastered/itempic/item-112.imd/-0.dds
+  - name: remastered/itempic/item-113.imd/-0.dds
+  - name: remastered/itempic/item-114.imd/-0.dds
+  - name: remastered/itempic/item-115.imd/-0.dds
+  - name: remastered/itempic/item-116.imd/-0.dds
+  - name: remastered/itempic/item-117.imd/-0.dds
+  - name: remastered/itempic/item-118.imd/-0.dds
+  - name: remastered/itempic/item-119.imd/-0.dds
+  - name: remastered/itempic/item-120.imd/-0.dds
+  - name: remastered/itempic/item-121.imd/-0.dds
+  - name: remastered/itempic/item-122.imd/-0.dds
+  - name: remastered/itempic/item-123.imd/-0.dds
+  - name: remastered/itempic/item-124.imd/-0.dds
+  - name: remastered/itempic/item-125.imd/-0.dds
+  - name: remastered/itempic/item-126.imd/-0.dds
+  - name: remastered/itempic/item-127.imd/-0.dds
+  - name: remastered/itempic/item-128.imd/-0.dds
+  - name: remastered/itempic/item-129.imd/-0.dds
+  - name: remastered/itempic/item-130.imd/-0.dds
+  - name: remastered/itempic/item-131.imd/-0.dds
+  - name: remastered/itempic/item-132.imd/-0.dds
+  - name: remastered/itempic/item-133.imd/-0.dds
+  - name: remastered/itempic/item-134.imd/-0.dds
+  - name: remastered/itempic/item-135.imd/-0.dds
+  - name: remastered/itempic/item-136.imd/-0.dds
+  - name: remastered/itempic/item-137.imd/-0.dds
+  - name: remastered/itempic/item-138.imd/-0.dds
+  - name: remastered/itempic/item-139.imd/-0.dds
+  - name: remastered/itempic/item-140.imd/-0.dds
+  - name: remastered/itempic/item-330.imd/-0.dds
+  - name: remastered/itempic/item-331.imd/-0.dds
+  - name: remastered/itempic/item-332.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: EquipmentIcons/armor.dds
+#Accessories
+- name: itempic/item-149.imd
+  multi:
+  - name: itempic/item-150.imd
+  - name: itempic/item-151.imd
+  - name: itempic/item-152.imd
+  - name: itempic/item-153.imd
+  - name: itempic/item-154.imd
+  - name: itempic/item-155.imd
+  - name: itempic/item-156.imd
+  - name: itempic/item-157.imd
+  - name: itempic/item-158.imd
+  - name: itempic/item-159.imd
+  - name: itempic/item-160.imd
+  - name: itempic/item-161.imd
+  - name: itempic/item-162.imd
+  - name: itempic/item-163.imd
+  - name: itempic/item-164.imd
+  - name: itempic/item-165.imd
+  - name: itempic/item-166.imd
+  - name: itempic/item-167.imd
+  - name: itempic/item-168.imd
+  - name: itempic/item-169.imd
+  - name: itempic/item-170.imd
+  - name: itempic/item-171.imd
+  - name: itempic/item-172.imd
+  - name: itempic/item-173.imd
+  - name: itempic/item-174.imd
+  - name: itempic/item-175.imd
+  - name: itempic/item-176.imd
+  - name: itempic/item-177.imd
+  - name: itempic/item-178.imd
+  - name: itempic/item-179.imd
+  - name: itempic/item-340.imd
+  - name: itempic/item-341.imd
+  - name: itempic/item-342.imd
+  - name: itempic/item-343.imd
+  - name: itempic/item-344.imd
+  method: copy
+  source:
+  - name: EquipmentIcons/accessory.imd
+- name: remastered/itempic/item-149.imd/-0.dds
+  multi:
+  - name: remastered/itempic/item-150.imd/-0.dds
+  - name: remastered/itempic/item-151.imd/-0.dds
+  - name: remastered/itempic/item-152.imd/-0.dds
+  - name: remastered/itempic/item-153.imd/-0.dds
+  - name: remastered/itempic/item-154.imd/-0.dds
+  - name: remastered/itempic/item-155.imd/-0.dds
+  - name: remastered/itempic/item-156.imd/-0.dds
+  - name: remastered/itempic/item-157.imd/-0.dds
+  - name: remastered/itempic/item-158.imd/-0.dds
+  - name: remastered/itempic/item-159.imd/-0.dds
+  - name: remastered/itempic/item-160.imd/-0.dds
+  - name: remastered/itempic/item-161.imd/-0.dds
+  - name: remastered/itempic/item-162.imd/-0.dds
+  - name: remastered/itempic/item-163.imd/-0.dds
+  - name: remastered/itempic/item-164.imd/-0.dds
+  - name: remastered/itempic/item-165.imd/-0.dds
+  - name: remastered/itempic/item-166.imd/-0.dds
+  - name: remastered/itempic/item-167.imd/-0.dds
+  - name: remastered/itempic/item-168.imd/-0.dds
+  - name: remastered/itempic/item-169.imd/-0.dds
+  - name: remastered/itempic/item-170.imd/-0.dds
+  - name: remastered/itempic/item-171.imd/-0.dds
+  - name: remastered/itempic/item-172.imd/-0.dds
+  - name: remastered/itempic/item-173.imd/-0.dds
+  - name: remastered/itempic/item-174.imd/-0.dds
+  - name: remastered/itempic/item-175.imd/-0.dds
+  - name: remastered/itempic/item-176.imd/-0.dds
+  - name: remastered/itempic/item-177.imd/-0.dds
+  - name: remastered/itempic/item-178.imd/-0.dds
+  - name: remastered/itempic/item-179.imd/-0.dds
+  - name: remastered/itempic/item-340.imd/-0.dds
+  - name: remastered/itempic/item-341.imd/-0.dds
+  - name: remastered/itempic/item-342.imd/-0.dds
+  - name: remastered/itempic/item-343.imd/-0.dds
+  - name: remastered/itempic/item-344.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: EquipmentIcons/accessory.dds
